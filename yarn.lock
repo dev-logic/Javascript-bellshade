@@ -795,10 +795,10 @@ fastify-socket.io@3.0.0:
   dependencies:
     fastify-plugin "^3.0.0"
 
-fastify-static@4.5.0:
-  version "4.5.0"
-  resolved "https://registry.npmjs.org/fastify-static/-/fastify-static-4.5.0.tgz"
-  integrity sha512-Q7Tgl55AjsmBwiO4hKYib2BUCt+XTWLJ6Xp8YPPHU3EsrKNpevJ4cz8pjf1Ey1QhHw9O8Y2FDKdu+IC74oHvqw==
+fastify-static@4.6.1:
+  version "4.6.1"
+  resolved "https://registry.npmjs.org/fastify-static/-/fastify-static-4.6.1.tgz"
+  integrity sha512-vy7N28U4AMhuOim12ZZWHulEE6OQKtzZbHgiB8Zj4llUuUQXPka0WHAQI3njm1jTCx4W6fixUHfpITxweMtAIA==
   dependencies:
     content-disposition "^0.5.3"
     encoding-negotiator "^2.0.1"
