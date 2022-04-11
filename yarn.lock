@@ -1297,10 +1297,10 @@ make-dir@^3.0.0:
   dependencies:
     semver "^6.0.0"
 
-marked@4.0.12:
-  version "4.0.12"
-  resolved "https://registry.npmjs.org/marked/-/marked-4.0.12.tgz"
-  integrity sha512-hgibXWrEDNBWgGiK18j/4lkS6ihTe9sxtV4Q1OQppb/0zzyPSzoFANBa5MfsG/zgsWklmNnhm0XACZOH/0HBiQ==
+marked@4.0.14:
+  version "4.0.14"
+  resolved "https://registry.npmjs.org/marked/-/marked-4.0.14.tgz"
+  integrity sha512-HL5sSPE/LP6U9qKgngIIPTthuxC0jrfxpYMZ3LdGDD3vTnLs59m2Z7r6+LNDR3ToqEQdkKd6YaaEfJhodJmijQ==
 
 mime-db@1.51.0:
   version "1.51.0"
